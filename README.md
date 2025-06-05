@@ -20,7 +20,7 @@
 
 <table>
   <tr>
-    <td>访问人数</td>
+    <td>访问次数：</td>
     <td><img src="https://profile-counter.glitch.me/SecNN/count.svg" alt="" /></td>
   </tr>
 </table>
