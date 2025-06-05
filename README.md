@@ -7,34 +7,39 @@
   </a>
 </h1>  
 
-> "我用两个灵魂对抗世界，一个向往，一个挣扎。" - SecNN
-
-
-[![GitHub 粉丝](https://img.shields.io/github/followers/SecNN?label=Follow&style=social)](https://github.com/SecNN)
-
-
 ![你的GitHub统计](https://github-readme-stats.vercel.app/api?username=SecNN&show_icons=true&theme=radical)
+
+
+## 🌐 关于我
+- ❤️ 中国 | 🌍 UTC+8 🚀  [![GitHub 粉丝](https://img.shields.io/github/followers/SecNN?label=Follow&style=social)](https://github.com/SecNN)
+- 个人网站： [SecNN.com](http://SecNN.com)
+- 网络安全智能助手：[SecNN - 网络安全智能助手](https://chat.secnn.com/login?nt=1)
+- 网络安全智能助手 - 用户注册：[SecNN - 网络安全智能助手 - 用户注册](https://register.secnn.com/)
+- 📧 联系我：sec@secnn.com
+- > "我用两个灵魂对抗世界，一个向往，一个挣扎。" - SecNN
 
 <table>
   <tr>
-    <td>You are visitor</td>
+    <td>访问人数</td>
     <td><img src="https://profile-counter.glitch.me/SecNN/count.svg" alt="" /></td>
   </tr>
 </table>
 
-📧 邮箱：sec@secnn.com
 
-## 🌐 关于我
-https://www.secnn.com/ SecNN在线网络安全工具
 
-https://chat.secnn.com/login?nt=1  SecNN - 网络安全智能助手
-
-https://register.secnn.com/   SecNN - 网络安全智能助手 - 用户注册
+## 🔧 实用工具
+[🔍🕵️‍♂️ Google Hacking 高级搜索](https://www.secnn.com/GoogleHacking/index.html) | 
+[🌐📍 IP地址查询](https://www.secnn.com/tools/ip-lookup.html) | 
+[🔑🔐 密码字典生成](https://www.secnn.com/tools/pass-dic-tool.html) | 
+[🛡️⚔️ JWT调试](https://www.secnn.com/tools/jwt-tool.html) | 
+[💻📊 进程分析-Windows提权辅助](https://www.secnn.com/process/index.html) | 
+[💣💥 POC&EXP 漏洞库](https://www.secnn.com/POC-EXP/index.html) | 
+[⚙️👾 在线编解码](https://www.secnn.com/tools/index.html)
 
 
 ## 🔥 热门项目
 
-| 项目 | 描述 | 技术栈 | 星标数 |
+| 项目 | 描述 | 语言 | 星标 |
 |------|------|--------|--------|
 | [ShellCode_Loader](https://github.com/SecNN/ShellCode_Loader) | Msf&CobaltStrike免杀ShellCode加载器 | Python | ⭐414 |
 | [Bypass_AV](https://github.com/SecNN/Bypass_AV) | 免杀Shellcode执行程序 | Python | ⭐224 |
