@@ -62,4 +62,4 @@ def security_researcher():
 echo "如果你对网络安全、漏洞研究或工具开发感兴趣，欢迎一起交流！"
 ```
 
-![419001929](https://github.com/user-attachments/assets/8df32ab7-e3ca-4955-9d7a-81bbaa9dc734)
+![微信关注公众号：渗透测试](https://github.com/user-attachments/assets/8df32ab7-e3ca-4955-9d7a-81bbaa9dc734)
