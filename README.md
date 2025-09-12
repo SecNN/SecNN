@@ -44,7 +44,7 @@
 
 | 项目 | 描述 | 语言 | 星标 |
 |------|------|--------|--------|
-| [Wiki漏洞库管理系统&网络安全知识库](https://github.com/SecNN/SecNN-Wiki) | Wiki漏洞库管理系统&网络安全知识库-常见漏洞知识库文档-该网站收集了Web应用层漏洞、中间件安全缺陷、系统配置不当、移动端（Android）安全问题、网络设备及IOT安全。 | Python+HTML | ⭐4 |
+| [Wiki漏洞库管理系统&网络安全知识库](https://github.com/SecNN/SecNN-Wiki) | Wiki漏洞库管理系统&网络安全知识库-常见漏洞知识库文档-该网站收集了Web应用层漏洞、中间件安全缺陷、系统配置不当、移动端（Android）安全问题、网络设备及IOT安全。 | Python+HTML | ⭐20 |
 | [GitHub 用户泄露邮箱查询平台](https://github.com/SecNN/GitMailFinder) | 一个纯前端、即开即用的Github用户泄露邮箱查询平台 - GitMailFinder |  HTML | ⭐4 |
 | [ShellCode_Loader](https://github.com/SecNN/ShellCode_Loader) | Msf&CobaltStrike免杀ShellCode加载器 | Python | ⭐414 |
 | [Bypass_AV](https://github.com/SecNN/Bypass_AV) | 免杀Shellcode执行程序 | Python | ⭐224 |
