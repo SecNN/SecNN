@@ -30,12 +30,13 @@
 
 
 ## 🔧 实用工具
+[💣💥 POC&EXP 漏洞库](https://www.secnn.com/POC-EXP/index.html) | 
+[📧🔍 GitHub 用户泄露邮箱查询平台 - GitMailFinder](https://www.secnn.com/GitMailFinder) | 
 [🔍🕵️‍♂️ Google Hacking 高级搜索](https://www.secnn.com/GoogleHacking/index.html) | 
 [🌐📍 IP地址查询](https://www.secnn.com/tools/ip-lookup.html) | 
 [🔑🔐 密码字典生成](https://www.secnn.com/tools/pass-dic-tool.html) | 
 [🛡️⚔️ JWT调试](https://www.secnn.com/tools/jwt-tool.html) | 
 [💻📊 进程分析-Windows提权辅助](https://www.secnn.com/process/index.html) | 
-[💣💥 POC&EXP 漏洞库](https://www.secnn.com/POC-EXP/index.html) | 
 [⚙️👾 在线编解码](https://www.secnn.com/tools/index.html)
 
 
@@ -44,6 +45,7 @@
 | 项目 | 描述 | 语言 | 星标 |
 |------|------|--------|--------|
 | [Wiki漏洞库管理系统&网络安全知识库](https://github.com/SecNN/SecNN-Wiki) | Wiki漏洞库管理系统&网络安全知识库-常见漏洞知识库文档-该网站收集了Web应用层漏洞、中间件安全缺陷、系统配置不当、移动端（Android）安全问题、网络设备及IOT安全。 | Python+HTML | ⭐4 |
+| [GitHub 用户泄露邮箱查询平台](https://github.com/SecNN/GitMailFinder) | 一个纯前端、即开即用的Github用户泄露邮箱查询平台 - GitMailFinder |  HTML | ⭐4 |
 | [ShellCode_Loader](https://github.com/SecNN/ShellCode_Loader) | Msf&CobaltStrike免杀ShellCode加载器 | Python | ⭐414 |
 | [Bypass_AV](https://github.com/SecNN/Bypass_AV) | 免杀Shellcode执行程序 | Python | ⭐224 |
 | [SpringFramework_CVE-2022-22965_RCE](https://github.com/SecNN/SpringFramework_CVE-2022-22965_RCE) |  SpringFramework 远程代码执行漏洞CVE-2022-22965 | Python | ⭐75 |
