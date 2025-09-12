@@ -13,7 +13,8 @@
 ## 🌐 关于我
 - ❤️ 中国 | 🌍 UTC+8 🚀  [![GitHub 粉丝](https://img.shields.io/github/followers/SecNN?label=Follow&style=social)](https://github.com/SecNN)
 - 🛡️个人网站： [SecNN.com](http://SecNN.com)
-- 🎯Wiki漏洞库管理系统&网络安全知识库：[👉在线阅读](https://www.secnn.com/POC-EXP/index.html) 项目地址：[🌟项目地址🌟](https://github.com/SecNN/SecNN-Wiki)
+- 🎯Wiki漏洞库管理系统&网络安全知识库：[👉在线阅读](https://www.secnn.com/POC-EXP/index.html)    项目地址：[🌟项目地址🌟](https://github.com/SecNN/SecNN-Wiki)
+- 🔍GitHub 用户泄露邮箱查询平台 - GitMailFinder：[👉在线查询](https://www.secnn.com/GitMailFinder) 
 - 🤖网络安全智能助手：[SecNN - 网络安全智能助手](https://chat.secnn.com/login?nt=1) 
 - 🖥️网络安全智能助手 - 用户注册：[SecNN - 网络安全智能助手 - 用户注册](https://register.secnn.com/)
 - 📧 联系我：sec@secnn.com
@@ -22,7 +23,7 @@
 <table>
   <tr>
     <td>访问次数：</td>
-    <td><img src="https://profile-counter.glitch.me/SecNN/count.svg" alt="" /></td>
+    <td><img src="https://komarev.com/ghpvc/?username=SecNN&color=brightgreen" /></td>
   </tr>
 </table>
 
