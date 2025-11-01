@@ -44,7 +44,7 @@
 
 | 项目 | 描述 | 语言 | 星标 |
 |------|------|--------|--------|
-| [Wiki漏洞库管理系统&网络安全知识库](https://github.com/SecNN/SecNN-Wiki) | Wiki漏洞库管理系统&网络安全知识库-常见漏洞知识库文档-该网站收集了Web应用层漏洞、中间件安全缺陷、系统配置不当、移动端（Android）安全问题、网络设备及IOT安全。 | Python+HTML | ⭐20 |
+| [Wiki漏洞库管理系统&网络安全知识库](https://github.com/SecNN/SecNN-Wiki) | Wiki漏洞库管理系统&网络安全知识库-常见漏洞知识库文档-该网站收集了Web应用层漏洞、中间件安全缺陷、系统配置不当、移动端（Android）安全问题、网络设备及IOT安全。 | Python+HTML | ⭐44 |
 | [GitHub 用户泄露邮箱查询平台](https://github.com/SecNN/GitMailFinder) | 一个纯前端、即开即用的Github用户泄露邮箱查询平台 - GitMailFinder |  HTML | ⭐4 |
 | [ShellCode_Loader](https://github.com/SecNN/ShellCode_Loader) | Msf&CobaltStrike免杀ShellCode加载器 | Python | ⭐414 |
 | [Bypass_AV](https://github.com/SecNN/Bypass_AV) | 免杀Shellcode执行程序 | Python | ⭐224 |
@@ -52,7 +52,7 @@
 | [Xeno-RAT-Server](https://github.com/SecNN/Xeno-RAT-Server) |  Xeno RAT Server 中文汉化版 Xeno-RAT ，为远程系统管理提供了一套全面的功能。具有 HVNC、实时麦克风、反向代理等功能！  | C# | ⭐4 |
 | [CVE-2022-22947_Rce_Exp](https://github.com/SecNN/CVE-2022-22947_Rce_Exp) | Spring Cloud Gateway 远程代码执行漏洞 CVE-2022-22947  | Python | ⭐76 |
 | [HTTPServer](https://github.com/SecNN/HTTPServer) | 红队内网HTTP文件服务工具-可执行Webshell，可用于在内网不出网时文件的下载，启动时会根据网卡IPV4地址输出URL(本地回环除外)。  | Python | ⭐105 |
-| [AI-PT](https://github.com/SecNN/AI-PT) | 利用AI进行自动化渗透测试 | PHP | ⭐10 |
+| [AI-PT](https://github.com/SecNN/AI-PT) | 利用AI进行自动化渗透测试 | PHP | ⭐19 |
 
 ## 🛡️ 安全研究
 
