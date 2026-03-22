@@ -55,7 +55,6 @@
 | [Xeno-RAT-Server](https://github.com/SecNN/Xeno-RAT-Server) |  Xeno RAT Server 中文汉化版 Xeno-RAT ，为远程系统管理提供了一套全面的功能。具有 HVNC、实时麦克风、反向代理等功能！  |  ![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white) | ⭐15 |
 | [GitHub 用户泄露邮箱查询平台](https://github.com/SecNN/GitMailFinder) | 一个纯前端、即开即用的Github用户泄露邮箱查询平台 - GitMailFinder |   ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white)  | ⭐7 |
 | [NFinger](https://github.com/SecNN/NFinger) | 基于AI智能分析的Web应用指纹识别工具，具备高效、可扩展的特性，支持高精度CMS识别、框架检测及中间件指纹匹配 | ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white)  | ⭐7 |
-| [NFinger](https://github.com/SecNN/NFinger) | ⭐0 |
 
 ## 🛡️ 安全研究
 ```python
